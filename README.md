@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @ManasaKaringula22
-- 👀 I’m interested in Data Analytics , Cancer Biology and Omics Pipeline 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Data Analystics , Cancer Biology and Next flow pipelines.
+- 👋 Hi, I’m @ManasaKaringula22 Bioinformatician and data scientist with 6 years of experience in analyzing  genomic datasets. Proficient in utilizing both R and Python.
+- 👀 I’m interested and  curious in applying the data science tools to develop solutions for drug discovery pipelines
+- 🌱 I’m currently learning Nextflow and Rshiny
+- 💞️ I’m looking to collaborate on Data Analytics , Cancer Biology and Next flow pipelines.
+- My project work -
+  - Developed end-to-end automated Data pipeline to handle clinical drug data, cleaning, normalization, integration and transformation to XML documents using python.
+  - Built pipelines on DNAnexus and using Next flow for omics analysis including pipeline verification, automation and creating testing modules.
+  - Experienced in processing bulk RNA sequencing data and analyzing the gene expression to infer the effects of disease phenotypes including tumor samples. Conducted Biomarker analysis using miRNA / mRNA correlation data.
+  - Text mining using elastic search for extracting disease-gene relations.
